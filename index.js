@@ -1,5 +1,5 @@
 import { innerHTML, html } from 'diffhtml';
-import { Component } from 'diffhtml-components';
+import 'diffhtml-components';
 import { App } from './app';
 
 innerHTML(document.body, html`
