@@ -1,0 +1,15 @@
+{
+  "name": "diffhtml-snowpack",
+  "version": "1.0.0",
+  "description": "Use diffHTML and Snowpack w/ HMR",
+  "main": "index.js",
+  "scripts": {
+    "start": "snowpack dev"
+  },
+  "license": "MIT",
+  "dependencies": {
+    "snowpack": "^2.0.0",
+    "diffhtml": "^1.0.0-beta.17",
+    "diffhtml-components": "^1.0.0-beta.17"
+  }
+}
